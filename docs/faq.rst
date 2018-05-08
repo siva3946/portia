@@ -28,3 +28,7 @@ Does Portia support content behind search forms?
 
 No, but we plan on adding support in the near future.
 
+Does portia must require  docker to install  locally in windows?
+
+How to Install and run portia in windows ?I followed the portia doc's installation process but It is not working anymore :(
+
